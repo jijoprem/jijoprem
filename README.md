@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jijo Prem</h1>
 <h3 align="center">Enthusiastic AI and Data Science student with a keen interest in technology and a commitment to staying abreast of the latest advancements. Dedicated to continual learning and eager to apply acquired knowledge to address real world challenges.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
-  
+
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
 - 📫 How to reach me **jijoprem32@gmail.com**
@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jijo-prem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jijo-prem" height="30" width="40" /></a>
+<a href="https://instagram.com/jijoprem.343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jijoprem.343" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/22adl04_kpriet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22adl04_kpriet" height="30" width="40" /></a>
 </p>
 
