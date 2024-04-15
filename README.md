@@ -1,4 +1,5 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+![image](https://github.com/jijoprem/jijoprem/assets/139945917/88f8b7b3-83fe-4d89-87a3-8f1f9eb0209d)
+
 
 <h1 align="center">Hi 👋, I'm Jijo Prem</h1>
 <h3 align="center">Enthusiastic AI and Data Science student with a keen interest in technology and a commitment to staying abreast of the latest advancements. Dedicated to continual learning and eager to apply acquired knowledge to address real world challenges.</h3>
