@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![gitban](https://github.com/jijoprem/jijoprem/assets/139945917/315a3ec6-faea-44fe-9b0b-604fce3710f5)
+
 <h1 align="center">Hi 👋, I'm Jijo Prem</h1>
 <h3 align="center">Enthusiastic AI and Data Science student with a keen interest in technology and a commitment to staying abreast of the latest advancements. Dedicated to continual learning and eager to apply acquired knowledge to address real world challenges.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
