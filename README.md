@@ -1,5 +1,4 @@
-![image](https://github.com/jijoprem/jijoprem/assets/139945917/88f8b7b3-83fe-4d89-87a3-8f1f9eb0209d)
-
+![gitbanner](https://github.com/jijoprem/jijoprem/assets/139945917/31002f62-43b8-451c-8879-bb75246227c2)
 
 <h1 align="center">Hi 👋, I'm Jijo Prem</h1>
 <h3 align="center">Enthusiastic AI and Data Science student with a keen interest in technology and a commitment to staying abreast of the latest advancements. Dedicated to continual learning and eager to apply acquired knowledge to address real world challenges.</h3>
